@@ -1,0 +1,19 @@
+---
+Language: Cpp
+# 使用4空格缩进
+IndentWidth: 4
+# 花括号换行风格
+BreakBeforeBraces: Allman
+# 保持一致的指针和引用的对齐
+DerivePointerAlignment: false
+PointerAlignment: Left
+# 控制语句后不加空格
+SpaceBeforeParens: Never
+# 其他常用设置
+ColumnLimit: 80
+AllowShortFunctionsOnASingleLine: None
+IndentCaseLabels: true
+MaxEmptyLinesToKeep: 1
+SpacesBeforeTrailingComments: 1
+TabWidth: 4
+UseTab: Never
